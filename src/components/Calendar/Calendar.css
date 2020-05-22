@@ -1,0 +1,20 @@
+.start-date {
+    width: 130px;
+    float: left;
+    font-family: "Roboto";
+    font-style: normal;
+    font-weight: normal;
+    font-size: 13px;
+    line-height: 15px;
+    color: #bcbcbc;
+}
+.end-date {
+    width: 130px;
+    float: right;
+    font-family: "Roboto";
+    font-style: normal;
+    font-weight: normal;
+    font-size: 13px;
+    line-height: 15px;
+    color: #bcbcbc;
+}
